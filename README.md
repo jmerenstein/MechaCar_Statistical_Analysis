@@ -1,8 +1,9 @@
-# An Analysis of Bikesharing
+# An Analysis of MechaCar
 
 ## Linear Regression to Predict MPG
 - The variable or coefficients that provide non random amounts of variance to the mpg in the data set are vehicle length and ground clearance.
-- 
+- The slope of the linear model here is not zero because the r squared value is .71. This means that roughly 71% of predictions will be accurate using this linear regression model.
+- Yes the linear model does a pretty good job of projecting mpg of MechaCar prototypes because the r squared value is .71. Any r sqaured value that is above .70 for a model is considered to be an indicator of a strong correlation. Since this regression model is above .70, it has a strong correlation and therefore can be seen as doing a good job of projecting mpg of MechaCar prototypes. 
 
 ## Summary Statistics on Suspension Coils
 To view the results and the analysis click [here](https://public.tableau.com/profile/joshua.merenstein#!/vizhome/CitiBikeStory_16148869711870/CitiBikeStory?publish=yes) and it will take you to the Teableau Public story I created for this proposal. There are seven different graphs and visualtions that you can click through. Above each visualtization is an explanation of what the results of each speciific graph means. 
